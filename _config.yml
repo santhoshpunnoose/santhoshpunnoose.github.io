@@ -22,7 +22,7 @@ avatar_image: /img/Photo(2).JPG
 
 #-------------------------------
 # Contact links
-linkedln: "www.linkedin.com/in/santhosh-punnoose-958b5224" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/santhosh-punnoose-958b5224/" # Add your linkedln handle
 github: "https://github.com/santhoshpunnoose"  # Add your github handle
 
 paginate: 6
